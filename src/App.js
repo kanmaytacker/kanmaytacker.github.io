@@ -10,7 +10,6 @@ function App() {
         <p>
             Makaan paut denge!
         </p>
-        </a>
       </header>
     </div>
   );
